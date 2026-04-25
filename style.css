@@ -162,6 +162,10 @@ button:hover {
 
 
 /*hoda*/
+*{
+  text-transform: capitalize;
+}
+
 
 header{
   display: flex;
